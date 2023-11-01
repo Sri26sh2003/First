@@ -1,6 +1,6 @@
 # First
 This is my first repository
 <br>
-Author - Srisha
+Author - Srisha Ashrit
 <br>
 Second time updated
